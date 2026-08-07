@@ -221,7 +221,7 @@ We are working on something big for the future of Metrolist - this is not the en
 - Updated dependencies (@nyxiereal)
 
 ## New Contributors
-* @isotjs made their first contribution in https://github.com/MetrolistGroup/Metrolist/pull/3090
+* @isotjs made their first contribution in https://github.com/narutoooo-dev/Metrolist/pull/3090
 
 **Full Changelog**: https://github.com/MetrolistGroup/Metrolist/compare/v13.2.1...v13.3.0
 ---v13.2.1
